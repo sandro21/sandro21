@@ -2,7 +2,7 @@
 
 Computer science student at Georgia Tech. I build web apps, useful tools, and hackathon projects.
 
-[Portfolio](https://sandrokarku.com) · [LinkedIn](https://www.linkedin.com/in/sandroka) · [Devpost](https://devpost.com/sandro21)
+[Portfolio](https://sandrokarku.com) · [LinkedIn](https://www.linkedin.com/in/sandroka)
 
 ### Languages
 
@@ -42,7 +42,7 @@ Computer vision that follows the action and turns landscape sports footage into 
 
 Ramblin' Hacks 2026 · Next.js · Python · FastAPI · YOLO
 
-[Repository](https://github.com/AAsteriskz7/HighlightHub) · [Devpost](https://devpost.com/software/highlights-hub)
+[Repository](https://github.com/AAsteriskz7/HighlightHub)
 
 ### Memora
 
@@ -50,7 +50,7 @@ An AI journal that lets you chat with your past self using your own entries.
 
 Anthropic Hackathon at GT HackerHouse × CBC · Next.js · TypeScript · Prisma
 
-[Repository](https://github.com/AAsteriskz7/Memora) · [Devpost](https://devpost.com/software/memora-talk-to-who-you-used-to-be)
+[Repository](https://github.com/AAsteriskz7/Memora)
 
 ### SportTwist
 
@@ -58,7 +58,7 @@ Explore how changing a single NFL play could affect the rest of a game through M
 
 HackGT 12 · React · TypeScript · Python · Flask
 
-[Repository](https://github.com/sandro21/SportTwist) · [Devpost](https://devpost.com/software/sporttwist)
+[Repository](https://github.com/sandro21/SportTwist)
 
 ### DigitalTwin 🏆
 
@@ -68,7 +68,7 @@ A health simulation prototype exploring how daily habits affect estimated biolog
 
 React · Python · Flask · XGBoost
 
-[Repository](https://github.com/AAsteriskz7/DigitalTwin) · [Devpost](https://devpost.com/software/digitaltwin)
+[Repository](https://github.com/AAsteriskz7/DigitalTwin)
 
 ## Other projects
 
